@@ -1,5 +1,6 @@
 """
-A short code created to list all of the modules installed for use into Sololearn's Python IDE. It returns the documentation for a random module.
+A short code created to list all of the modules installed. 
+It returns the documentation for a random module.
 """
 
 import pkgutil
